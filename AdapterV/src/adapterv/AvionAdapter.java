@@ -7,7 +7,7 @@ package adapterv;
 
 /**
  *
- * @author JhormanB
+ * @author JhormanB,MaryuriM
  */
 public class AvionAdapter extends Vehiculo {
     
